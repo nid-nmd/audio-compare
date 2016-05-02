@@ -1,0 +1,10 @@
+[
+    {
+        "service": "Compare Audio",
+        "route": "/audio/compare",
+        "type": "python",
+        "file": "app.py",
+        "class": "IdentifyAlphabet",
+        "prepare": "prepare"
+    }
+]
